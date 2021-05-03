@@ -13,7 +13,9 @@ Py -m pip install flake8
 Py -m pip install pytest
 ```
 I created a basic python code that are easy to make tests for
+
 ![](img/1.png)
+
 
 After that I created a test_calculator.py to test my code
 
