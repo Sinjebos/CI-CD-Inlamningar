@@ -49,7 +49,7 @@ I added a .circleci with a config.yml file to automate the tests to run whenever
 
 ![](img/3.png)
 
-I ran the command py -m pip freeze > requirements.txt and cleaned up the file from everything that wont be needed for these tests
+I ran the command "py -m pip freeze > requirements.txt" in the terminal and cleaned up the file from everything that wont be needed for these tests
 
 ![](img/8.png)
 
