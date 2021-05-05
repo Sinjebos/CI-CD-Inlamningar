@@ -1,12 +1,9 @@
-```python
-test test
-```
-
 - [Report](#Report)
 - [tests](#tests)
     - [flake8](#flake8)
     - [pytest](#pytest)
 - [circleci](#circleci)
+- [Github-Merge](#Github-Merge)
 
 
 # Report
@@ -60,3 +57,11 @@ Here I can see the different builds and this one passed.
 And in this part I can see all the steps and what circleci did.
 
 ![](img/7.png)
+
+## Github Merge
+
+![](img/9.png)
+
+![](img/10.png)
+
+![](img/11.png)
