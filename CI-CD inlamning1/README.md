@@ -21,7 +21,7 @@ After that I created a test_calculator.py to test my code
 
 ![](img/2.png)
 
-by runnning 
+by running 
 ```python
 Py -m pip flake8 --statistics
 Py -m pip pytest
