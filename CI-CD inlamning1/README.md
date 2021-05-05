@@ -49,8 +49,14 @@ I added a .circleci with a config.yml file to automate the tests to run whenever
 
 ![](img/3.png)
 
-![](img/3.png)
+I ran the command py -m pip freeze > requirements.txt and cleaned up the file from everything that wont be needed for these tests
 
-![](img/3.png)
+![](img/8.png)
 
-![](img/3.png)
+Here I can see the different builds and this one passed.
+
+![](img/6.png)
+
+And in this part I can see all the steps and what circleci did.
+
+![](img/7.png)
