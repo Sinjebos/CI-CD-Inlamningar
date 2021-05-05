@@ -32,9 +32,15 @@ Py -m pip flake8 --statistics
 Py -m pip pytest
 ```
 # **flake8**
+
+showed two tests where one failed and one succeeded.
+
 ![](img/4.png)
 
 # **pytest**
+
+Two tests here aswell.
+
 ![](img/5.png)
 
 ## circleci
