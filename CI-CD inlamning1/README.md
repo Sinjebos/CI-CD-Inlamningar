@@ -4,7 +4,7 @@
     - [pytest](#pytest)
 - [circleci](#circleci)
 - [Github-Merge](#Github-Merge)
-
+- [Questions](#Questions)
 
 # Report
 
@@ -60,8 +60,30 @@ And in this part I can see all the steps and what circleci did.
 
 ## Github Merge
 
+Open a pull request from Tests to Master
+
 ![](img/9.png)
+
+
 
 ![](img/10.png)
 
+Here I see that all the tests went through and I am therefor able to merge
+
 ![](img/11.png)
+
+
+## **Questions**
+
+[x] The tools I used during the assignment
+ - Github
+ - Circleci
+ - Yml
+ - VSC
+[x] How I used the tools to completet the assignment
+
+[x] If I encountered any problems and how I solved them
+ - I put my Circleci directory outside of the actuall directory and encountered the problem where it could not find the files to tests and solved it by redirecting the command that runs the tests (I did this for eventuall further assignments).
+[x] Describe how the tests worked and how I used them in the assignment.
+ - My tests
+[x] Whats missiTng for reaching CD
