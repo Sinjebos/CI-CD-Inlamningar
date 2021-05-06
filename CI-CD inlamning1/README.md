@@ -75,15 +75,17 @@ Here I see that all the tests went through and I am therefor able to merge
 
 ## **Questions**
 
-[x] The tools I used during the assignment
+1. [x] The tools I used during the assignment
  - Github
  - Circleci
  - Yml
  - VSC
-[x] How I used the tools to completet the assignment
+2. [x] How I used the tools to completet the assignment
 
-[x] If I encountered any problems and how I solved them
+3. [x] If I encountered any problems and how I solved them
  - I put my Circleci directory outside of the actuall directory and encountered the problem where it could not find the files to tests and solved it by redirecting the command that runs the tests (I did this for eventuall further assignments).
-[x] Describe how the tests worked and how I used them in the assignment.
+
+4. [x] Describe how the tests worked and how I used them in the assignment.
  - My tests
-[x] Whats missiTng for reaching CD
+
+5. [x] Whats missing for reaching CD
