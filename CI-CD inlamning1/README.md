@@ -80,12 +80,14 @@ Here I see that all the tests went through and I am therefor able to merge
  - Circleci
  - Yml
  - VSC
-2. [x] How I used the tools to completet the assignment
+2. [x] How I used the tools to complete the assignment
 
 3. [x] If I encountered any problems and how I solved them
  - I put my Circleci directory outside of the actuall directory and encountered the problem where it could not find the files to tests and solved it by redirecting the command that runs the tests (I did this for eventuall further assignments).
 
 4. [x] Describe how the tests worked and how I used them in the assignment.
- - My tests
+ - My tests shows that my code works and are accepted to be merged into Master branch
+ - checks that 2+2 = 4 which is false ;) 
 
 5. [x] Whats missing for reaching CD
+ - The missing could be auto merging the branches from DEV to Master if the tests are accepted and code is working fine. 
