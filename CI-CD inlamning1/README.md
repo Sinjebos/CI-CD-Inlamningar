@@ -90,4 +90,5 @@ Here I see that all the tests went through and I am therefor able to merge
  - checks that 2+2 = 4 which is false ;) 
 
 5. [x] Whats missing for reaching CD
- - The missing could be auto merging the branches from DEV to Master if the tests are accepted and code is working fine. 
+ - The missing could be auto merging the branches from DEV to Master if the tests are accepted and code is working fine.
+ - Or it could be the part of when pushed to github that jenkins picks it up with a webhook and runs the code
